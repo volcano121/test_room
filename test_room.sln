@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "test_room", "test_room.njsproj", "{A485E384-D4EB-4A5C-B7D3-3C7D1CD24BB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "public", "public", "{AB7578D0-C91B-4FFC-877F-0C59AB78805B}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A485E384-D4EB-4A5C-B7D3-3C7D1CD24BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A485E384-D4EB-4A5C-B7D3-3C7D1CD24BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A485E384-D4EB-4A5C-B7D3-3C7D1CD24BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A485E384-D4EB-4A5C-B7D3-3C7D1CD24BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B0F5ECE-71D7-49E8-80A1-1A69B0C490B9}
+	EndGlobalSection
+EndGlobal
